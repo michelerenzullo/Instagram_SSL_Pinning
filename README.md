@@ -1,6 +1,6 @@
 # Instagram SSL Pinning
 Forked from itsMoji/Instagram_SSL_Pinning - apk update to last version  
-Bypass Instagram SSL Pinning on Android (`ARM and x86`) Version **170.2.0.30.474** 
+Bypass Instagram SSL Pinning on Android (`ARM and x86`) Version **176.0.0.38** 
 
 **Do you like this project? Support it by donating**
 
